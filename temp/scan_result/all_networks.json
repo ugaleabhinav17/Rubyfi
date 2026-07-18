@@ -1,0 +1,461 @@
+[
+    {
+        "bssid": "26:43:99:86:1F:56",
+        "ssid": "<Hidden SSID>",
+        "channel": 6,
+        "pwr": -1,
+        "enc": "",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "AA:42:A1:27:A3:15",
+        "ssid": "<Hidden SSID>",
+        "channel": 7,
+        "pwr": -53,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "AA:42:A1:77:A3:15",
+        "ssid": "<Hidden SSID>",
+        "channel": 149,
+        "pwr": -53,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "A8:42:A1:87:A3:15",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 7,
+        "pwr": -54,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "A8:42:A1:87:A3:17",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 149,
+        "pwr": -54,
+        "enc": "WPA2",
+        "clients": 3,
+        "wps": "No"
+    },
+    {
+        "bssid": "12:68:38:A3:A0:37",
+        "ssid": "PATU",
+        "channel": 11,
+        "pwr": -59,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "AA:42:A1:77:A0:15",
+        "ssid": "<Hidden SSID>",
+        "channel": 153,
+        "pwr": -66,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "C2:DE:4B:E0:23:C0",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 2,
+        "pwr": -67,
+        "enc": "WPA2",
+        "clients": 2,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "C2:DE:4B:E0:23:C1",
+        "ssid": "<Hidden SSID>",
+        "channel": 2,
+        "pwr": -67,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "A8:42:A1:87:A0:17",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 153,
+        "pwr": -67,
+        "enc": "WPA2",
+        "clients": 4,
+        "wps": "No"
+    },
+    {
+        "bssid": "A2:DE:4B:E0:23:CC",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 48,
+        "pwr": -69,
+        "enc": "WPA2",
+        "clients": 9,
+        "wps": "No"
+    },
+    {
+        "bssid": "A2:DE:4B:E0:23:CD",
+        "ssid": "<Hidden SSID>",
+        "channel": 48,
+        "pwr": -70,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "A8:42:A1:87:A0:15",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 9,
+        "pwr": -73,
+        "enc": "WPA2",
+        "clients": 2,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "AA:42:A1:27:A0:15",
+        "ssid": "<Hidden SSID>",
+        "channel": 9,
+        "pwr": -73,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "16:FA:C4:3C:2A:BF",
+        "ssid": "<Hidden SSID>",
+        "channel": 149,
+        "pwr": -74,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "20:23:51:39:05:EC",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 4,
+        "pwr": -75,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "22:23:51:29:05:EC",
+        "ssid": "<Hidden SSID>",
+        "channel": 4,
+        "pwr": -75,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:33:27:43",
+        "ssid": "Guest",
+        "channel": 44,
+        "pwr": -77,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:23:27:43",
+        "ssid": "<Hidden SSID>",
+        "channel": 44,
+        "pwr": -77,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:23:27:42",
+        "ssid": "Guest",
+        "channel": 11,
+        "pwr": -77,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0C:EA:14:13:27:43",
+        "ssid": "Pillai",
+        "channel": 44,
+        "pwr": -78,
+        "enc": "WPA2",
+        "clients": 2,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:13:27:43",
+        "ssid": "<Hidden SSID>",
+        "channel": 44,
+        "pwr": -78,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0C:EA:14:13:27:42",
+        "ssid": "Pillai",
+        "channel": 11,
+        "pwr": -78,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:13:27:42",
+        "ssid": "<Hidden SSID>",
+        "channel": 11,
+        "pwr": -79,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "E4:FA:C4:3C:2A:BE",
+        "ssid": "Pillai Hocl Campus",
+        "channel": 3,
+        "pwr": -80,
+        "enc": "WPA2",
+        "clients": 3,
+        "wps": "Yes"
+    },
+    {
+        "bssid": "0E:EA:14:13:27:92",
+        "ssid": "<Hidden SSID>",
+        "channel": 11,
+        "pwr": -80,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:3C:26:9B",
+        "ssid": "Guest",
+        "channel": 153,
+        "pwr": -80,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "16:FA:C4:3C:2A:BE",
+        "ssid": "<Hidden SSID>",
+        "channel": 3,
+        "pwr": -81,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:43:27:43",
+        "ssid": "PHCET",
+        "channel": 44,
+        "pwr": -81,
+        "enc": "WPA2",
+        "clients": 2,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:33:27:42",
+        "ssid": "PHCET",
+        "channel": 11,
+        "pwr": -81,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:2C:26:9B",
+        "ssid": "<Hidden SSID>",
+        "channel": 153,
+        "pwr": -81,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "28:70:4E:4C:26:9B",
+        "ssid": "Pillai",
+        "channel": 153,
+        "pwr": -81,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:5C:26:9B",
+        "ssid": "<Hidden SSID>",
+        "channel": 153,
+        "pwr": -82,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "76:A7:41:81:D3:9E",
+        "ssid": "Guest",
+        "channel": 1,
+        "pwr": -85,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "28:70:4E:4C:26:9A",
+        "ssid": "Pillai",
+        "channel": 6,
+        "pwr": -85,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "1E:22:38:45:57:6C",
+        "ssid": "CE 4",
+        "channel": 1,
+        "pwr": -85,
+        "enc": "WPA3 WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:4C:26:9A",
+        "ssid": "<Hidden SSID>",
+        "channel": 6,
+        "pwr": -85,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0C:EA:14:13:27:92",
+        "ssid": "Pillai",
+        "channel": 11,
+        "pwr": -85,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:1C:26:9B",
+        "ssid": "PHCET",
+        "channel": 153,
+        "pwr": -85,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "7A:A7:41:81:D3:9E",
+        "ssid": "<Hidden SSID>",
+        "channel": 1,
+        "pwr": -87,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "E4:FA:C4:3C:2A:BF",
+        "ssid": "<Hidden SSID>",
+        "channel": 153,
+        "pwr": -87,
+        "enc": "WPA",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:1C:26:9A",
+        "ssid": "PHCET",
+        "channel": 6,
+        "pwr": -88,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:23:27:92",
+        "ssid": "Guest",
+        "channel": 11,
+        "pwr": -88,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:33:27:92",
+        "ssid": "PHCET",
+        "channel": 11,
+        "pwr": -88,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:3B:F3:03",
+        "ssid": "Guest",
+        "channel": 157,
+        "pwr": -88,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "70:A7:41:81:D3:9E",
+        "ssid": "Pillai",
+        "channel": 1,
+        "pwr": -89,
+        "enc": "WPA2",
+        "clients": 1,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:2B:F3:03",
+        "ssid": "<Hidden SSID>",
+        "channel": 157,
+        "pwr": -90,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:1B:F3:03",
+        "ssid": "<Hidden SSID>",
+        "channel": 157,
+        "pwr": -90,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "28:70:4E:4B:F3:03",
+        "ssid": "Pillai",
+        "channel": 157,
+        "pwr": -90,
+        "enc": "WPA2",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "2A:70:4E:4B:F3:03",
+        "ssid": "<Hidden SSID>",
+        "channel": 157,
+        "pwr": -90,
+        "enc": "WPA",
+        "clients": 0,
+        "wps": "No"
+    },
+    {
+        "bssid": "0E:EA:14:32:F5:0E",
+        "ssid": "<Hidden SSID>",
+        "channel": 1,
+        "pwr": -91,
+        "enc": "WPA",
+        "clients": 0,
+        "wps": "No"
+    }
+]

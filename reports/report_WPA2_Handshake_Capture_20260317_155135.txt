@@ -1,0 +1,53 @@
+=================================================================
+  RubyFi — Post-Attack Remediation Report
+=================================================================
+  Attack   : WPA2 Handshake Capture
+  Target   : Atul  (26:DC:30:29:AE:75)
+  Risk     : HIGH
+  Time     : 2026-03-17 15:51:35
+=================================================================
+
+VULNERABILITY:
+  WPA2-PSK 4-Way Handshake captured — offline password cracking possible
+
+IMPACT:
+  Attacker can crack Wi-Fi password offline using wordlists or brute force
+
+FIXES:
+
+  Fix #1: Upgrade to WPA3
+  Why: WPA3 uses SAE (Simultaneous Authentication of Equals) — immune to offline cracking
+  Steps:
+    1. Login to router admin panel (192.168.1.1)
+    2. Go to Wireless Settings → Security
+    3. Change from WPA2-PSK to WPA3-SAE
+    4. Save and reboot router
+    5. Reconnect all devices
+
+  Fix #2: Use a Strong Password (Immediate Fix)
+  Why: Strong passwords make brute-force/dictionary attacks computationally infeasible
+  Steps:
+    1. Use minimum 16 characters
+    2. Mix uppercase, lowercase, numbers, symbols
+    3. Avoid dictionary words, names, dates
+    4. Example: M@wifi#2024$Secure!X9
+    5. Change password every 6 months
+
+  Fix #3: Enable WPA2-AES (if WPA3 not available)
+  Why: AES encryption is significantly stronger than TKIP
+  Steps:
+    1. Go to Wireless Settings → Encryption
+    2. Select WPA2-AES (NOT TKIP)
+    3. TKIP is deprecated and weak
+
+CHECKLIST:
+  ☐ Upgraded to WPA3 or WPA2-AES
+  ☐ Password is 16+ characters
+  ☐ Password has no dictionary words
+  ☐ Router firmware is up to date
+  ☐ Changed password after test
+
+ADDITIONAL INFO:
+  Handshake File: captures/Atul_handshake.cap
+  Capture Tool: airodump-ng
+  Captured At: channel 10

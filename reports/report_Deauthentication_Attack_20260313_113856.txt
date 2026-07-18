@@ -1,0 +1,51 @@
+=================================================================
+  RubyFi — Post-Attack Remediation Report
+=================================================================
+  Attack   : Deauthentication Attack
+  Target   : Pillai Hocl Campus  (20:23:51:39:05:EC)
+  Risk     : HIGH
+  Time     : 2026-03-13 11:38:56
+=================================================================
+
+VULNERABILITY:
+  802.11 management frames are unencrypted — deauth frames accepted without verification
+
+IMPACT:
+  Attacker can disconnect all clients from network at will (DoS)
+
+FIXES:
+
+  Fix #1: Enable 802.11w PMF (Protected Management Frames)
+  Why: PMF encrypts management frames — deauth attack is completely blocked
+  Steps:
+    1. Login to router admin panel
+    2. Go to Wireless Settings → Advanced
+    3. Find 'Management Frame Protection' or '802.11w' or 'PMF'
+    4. Set to REQUIRED (not Optional)
+    5. Save and reboot router
+
+  Fix #2: Upgrade to WPA3
+  Why: WPA3 enforces PMF, making deauth attacks impossible
+  Steps:
+    1. WPA3 mandates PMF by default
+    2. Upgrade router firmware to support WPA3
+    3. Enable WPA3-SAE mode
+
+  Fix #3: Use Enterprise Wi-Fi (WPA2-EAP)
+  Why: Enterprise mode with PMF = fully protected against deauth DoS
+  Steps:
+    1. Deploy RADIUS server for authentication
+    2. Use WPA2/WPA3-Enterprise with certificates
+    3. Each user gets unique credentials
+
+CHECKLIST:
+  ☐ 802.11w PMF set to REQUIRED
+  ☐ Upgraded to WPA3 if router supports it
+  ☐ Verified PMF is active (not just optional)
+  ☐ Tested deauth — verify frames are blocked
+  ☐ Router firmware updated
+
+ADDITIONAL INFO:
+  channel: 3
+  client_mac: broadcast
+  interface: wlan0mon

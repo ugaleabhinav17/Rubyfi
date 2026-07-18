@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+76:DD:34:64:60:E8, 2026-03-17 14:19:05, 2026-03-17 14:19:24,  6,  65, WPA2, CCMP, PSK, -18,      189,      208,   0.  0.  0.  0,  14, Galaxy F419723, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+8C:4E:46:88:9E:E1, 2026-03-17 14:19:14, 2026-03-17 14:19:23, -23,      412, 76:DD:34:64:60:E8,Galaxy F419723
+
